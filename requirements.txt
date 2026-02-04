@@ -1,0 +1,5 @@
+groq
+requests
+python-dotenv
+PyPDF2
+pdfplumber # PyPDF2 may just be enough, but pdfplumber often does a better job with complex PDFs
